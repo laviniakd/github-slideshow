@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Haz cheezburger, is old!
+This is my actual text!
 Use the left arrow to go back!
